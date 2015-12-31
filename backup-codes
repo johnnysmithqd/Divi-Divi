@@ -1,0 +1,64 @@
+backup-codes
+
+<div class="row">
+<div class="col-lg-12 no-padding">
+<div class="acomodacoes-wrapper">
+<div class="row">
+<div class="col-lg-5">
+<div class="acomodacoes-wrapper-text">
+<h2>Standard</h2>
+<p>
+Apartamento amplo com 01 cama box spring, ar condicionado split, 
+TV LCD a cabo, frigobar, wi-fi, telefone, cofre e varanda.
+</p>
+<div class="acomoda-tab">
+<table>
+<tbody>
+<tr>
+<td>Capacidade :</td>
+<td>1 Pessoa</td>
+<td><span class="glyphicon glyphicon-user"></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>
+<a class="btn-acmd" href="" data-toggle="modal" data-target="#myModal">Reserve Já!</a>
+</p>
+</div>	
+</div><!-- col-5 -->
+<div class="col-lg-7">
+<div id="myCarousel-standard" class="carousel slide" data-ride="carousel">
+<!-- Indicators -->
+<ol class="carousel-indicators">
+<li data-target="#myCarousel-standard" data-slide-to="0" class="active"></li>
+<li data-target="#myCarousel-standard" data-slide-to="1"></li>
+<li data-target="#myCarousel-standard" data-slide-to="2"></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class="carousel-inner acomodacoes-height" role="listbox">
+<div class="item active">
+<div style="background:url(<?php echo bloginfo('template_url') ?>/assets/img/destaque2.jpg) center center; background-size:cover;" class="slider-size">
+<div class="carousel-caption">
+</div>
+</div>
+</div>
+<div class="item">
+<div style="background:url(<?php echo bloginfo('template_url') ?>/assets/img/destaque2.jpg) center center; background-size:cover;" class="slider-size">
+<div class="carousel-caption">
+</div>
+</div>
+</div>
+<div class="item">
+<div style="background:url(<?php echo bloginfo('template_url') ?>/assets/img/destaque2.jpg) center center; background-size:cover;" class="slider-size">
+<div class="carousel-caption">
+</div>
+</div>
+</div>
+</div><!-- carousel inner -->
+</div><!-- carousel -->
+</div><!-- col-5 -->
+</div><!-- row -->
+</div>
+</div><!-- col-12 -->
+</div><!-- row -->
